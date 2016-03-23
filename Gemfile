@@ -13,6 +13,7 @@ gem 'govuk_frontend_toolkit', git: "https://github.com/alphagov/govuk_frontend_t
 gem 'govuk_elements_rails', git: 'https://github.com/ministryofjustice/govuk_elements_rails.git', submodules: true
 gem 'jquery-rails'
 gem 'moj_template', '~> 0.23.2'
+gem 'split_dmy', '~>0.4'
 gem 'sass-rails', '5.0.4'
 gem 'slim-rails'
 gem 'uglifier', '>= 1.3.0'
